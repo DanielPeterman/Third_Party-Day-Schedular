@@ -18,11 +18,11 @@ This project is a work-day schedular designed to track past, present, and future
 
 # Installation
 
-In order to open the github project repository visit: ("https://github.com/DanielPeterman/Web-APIs---Code-Quiz"). The user will need to have a web browser installed (ex. Google Chrome, Safari, IE, etc.) 
+In order to open the github project repository visit: ("https://github.com/DanielPeterman/Third_Party-Day-Schedular"). The user will need to have a web browser installed (ex. Google Chrome, Safari, IE, etc.) 
 
 # Usage
 
-In order to open this project page, please visit: ("https://danielpeterman.github.io/Web-APIs---Code-Quiz/") within any web browser.
+In order to open this project page, please visit: ("https://danielpeterman.github.io/Third_Party-Day-Schedular/") within any web browser.
 
 # Credits
 
